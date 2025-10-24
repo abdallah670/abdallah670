@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=490&lines=I'm+Mohamed+Nabil;Software+Engineer+;Backend+.NET+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=490&lines=I'm+Abdullah+Mohamed;Software+Engineer+;Backend+.NET+developer" alt="Typing SVG" /></a>
 </h1>
 
 ###
@@ -10,10 +10,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mnbil0680&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mnbil0680&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnbil0680&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnbil0680&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="200" alt="languages graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=mnbil0680&no-frame=true&no-bg=true&theme=radical" height="200" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=abdallah670&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="200" alt="languages graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=abdallah670&no-frame=true&no-bg=true&theme=radical" height="200" alt="trophy graph"  />
 </div>
 
 ###
@@ -45,13 +45,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@mohamed_nabil23" target="_blank">
+  <a href="https://www.youtube.com/@Fikri-18" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="60" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mnbil0680" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-mohammed-334475294" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="60" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/mnbil0680" target="_blank">
+  <a href="https://t.me/Abdullah0284" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="71" height="60" alt="telegram logo"  />
   </a>
 </div>
