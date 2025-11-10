@@ -13,15 +13,15 @@
   <img src="https://streak-stats.demolab.com?user=abdallah670&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="200" alt="languages graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=abdallah670&no-frame=true&no-bg=true&theme=radical" height="200" alt="trophy graph"  />
-</div>
-
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=abdallah670&no-frame=true&no-bg=true&theme=radical" height="200" alt="trophy graph"  />
+</div> -->
+<br clear="both">
 ###
 
 <br clear="both">
 
-<!-- <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF2a3AyODE4bjV4ajJrMm8xdm52OXc5enZ0bzRjeTkybXoya3JqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  /> -->
-
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF2a3AyODE4bjV4ajJrMm8xdm52OXc5enZ0bzRjeTkybXoya3JqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  /> 
+<br clear="both">
 ###
 
 <div align="left">
@@ -41,9 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
 </div>
-
+<br clear="both">
 ###
-
+<br clear="both">
 <div align="left">
   <a href="https://www.youtube.com/@Fikri-18" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="60" alt="youtube logo"  />
