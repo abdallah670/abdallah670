@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
 </div>
 <br clear="both">
-
-<br clear="both">
 <div align="left">
   <a href="https://www.youtube.com/@Fikri-18" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="60" alt="youtube logo"  />
