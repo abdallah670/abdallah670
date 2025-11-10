@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=490&lines=I'm+Abdullah+Mohamed;Software+Engineer+;Backend+.NET+developer" alt="Typing SVG" /></a>
 </h1>
 
-###
+
 
 <br clear="both">
 
@@ -16,12 +16,11 @@
   <!-- <img src="https://github-profile-trophy.vercel.app?username=abdallah670&no-frame=true&no-bg=true&theme=radical" height="200" alt="trophy graph"  />
 </div> -->
 <br clear="both">
-###
 
 <br clear="both">
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF2a3AyODE4bjV4ajJrMm8xdm52OXc5enZ0bzRjeTkybXoya3JqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  /> 
-<br clear="both">
+
 
 
 <div align="left">
