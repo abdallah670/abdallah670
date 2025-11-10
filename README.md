@@ -22,7 +22,7 @@
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF2a3AyODE4bjV4ajJrMm8xdm52OXc5enZ0bzRjeTkybXoya3JqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  /> 
 <br clear="both">
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
 </div>
 <br clear="both">
-###
+
 <br clear="both">
 <div align="left">
   <a href="https://www.youtube.com/@Fikri-18" target="_blank">
@@ -56,4 +56,3 @@
   </a>
 </div>
 
-###
