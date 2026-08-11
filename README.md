@@ -1,28 +1,44 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abdullah+Mohammed+(Meno);Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+Azure;Building+clean%2C+scalable+web+apps" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=abdallah670&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" /> </div> <br/>
-👋 About Me
+<div align="center">
+Hi, I'm Abdullah Mohammed 👋
+Meno — Full-Stack .NET Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Architecture+%7C+SQL+Server;Building+clean%2C+scalable+web+apps" alt="Typing SVG" /> <br/> <img src="https://komarev.com/ghpvc/?username=abdallah670&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" /> <a href="https://www.linkedin.com/in/abdullah-mohammed-334475294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:meno.mo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://t.me/Abdullah0284"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a> </div> <br/>
+About Me
 🎓 Computer Science student at the Faculty of Computers and Information (FCI), Cairo
-💻 Full-Stack .NET Developer — building backend systems with C# / ASP.NET Core and frontends with Angular
-🏗️ I care about Clean Architecture, maintainable code, and solid database design
-🚀 I also take on freelance web development projects
+💻 Full-Stack .NET Developer, building backend systems in C# / ASP.NET Core and frontends in Angular
+🏗️ Focused on Clean Architecture, maintainable code, and solid database design
+🚀 Also take on freelance web development projects
 📫 Reach me at meno.mo.dev@gmail.com
 <br/>
-🛠️ Tech Stack
-<div align="left">
+Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,cpp,angular,html,css,mssql,azure,git" alt="tech stack icons"/>
 
-Languages & Core <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET Core" title=".NET Core"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++"/>
+<br/><br/>
 
-Backend & Frameworks <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt=".NET" title=".NET"/> <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="ASP.NET Core MVC"/> <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="EF Core"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="SignalR"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC"/> <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/> <br/> <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/> <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" alt="Clean Architecture"/> </div> <br/>
+Featured Projects
+<table> <tr> <td width="50%" valign="top"> <img src="assets/menopro.png" width="100%" alt="MenoPro"/>
 
-Frontend <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" title="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" height="28" alt="NgRx"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" height="28" alt="RxJS"/>
+🏋️ MenoPro — Gym Management System <br/> Gym management platform with member tracking, services, and pricing pages. Built with ASP.NET Core MVC, Angular, and Clean Architecture on SQL Server.
 
-Database & Cloud <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" alt="SQL Server" title="SQL Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" title="Azure"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+</td> <td width="50%" valign="top"> <img src="assets/labor-marketplace.png" width="100%" alt="Labor Marketplace System"/>
 
-Architecture <br/> <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" height="28" alt="Clean Architecture"/>
+🛠️ Labor Marketplace System <br/> A marketplace connecting clients with skilled local workers for cleaning, moving, repairs, and more, with real-time features powered by SignalR.
 
-</div> <br/>
-🚀 Featured Projects
-<table> <tr> <td width="33%"> <h3>🏋️ MenoPro</h3> <p>Gym Management System built with ASP.NET Core &amp; Angular, using Clean Architecture and SQL Server.</p> </td> <td width="33%"> <h3>🛠️ Labor Marketplace System</h3> <p>A marketplace platform connecting clients with skilled laborers, with real-time features powered by SignalR.</p> </td> <td width="33%"> <h3>👗 Outfit Planner</h3> <p>A web app for planning and organizing outfits, built with a clean, responsive Angular frontend.</p> </td> </tr> </table> <br/>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdallah670&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=abdallah670&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="streak graph" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" height="180" alt="activity graph" /> </div> <br/>
-🤝 Connect With Me
-<div align="left"> <a href="https://www.linkedin.com/in/abdullah-mohammed-334475294" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="45" alt="linkedin logo"/> </a> <a href="https://t.me/Abdullah0284" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="45" alt="telegram logo"/> </a> <a href="https://www.youtube.com/@Fikri-18" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="45" alt="youtube logo"/> </a> <a href="mailto:meno.mo.dev@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="45" alt="gmail logo"/> </a> </div> <br/> <div align="center"> <sub>Thanks for stopping by — feel free to check out my pinned repos below ⬇️</sub> </div>
+</td> </tr> <tr> <td width="50%" valign="top"> <img src="assets/outfit-planner.png" width="100%" alt="Outfit Planner"/>
+
+👗 Outfit Planner <br/> A social outfit-planning app where users create polls, get community votes on outfit choices, and share results via shareable links and QR codes.
+
+</td> <td width="50%" valign="top"> <img src="assets/wms-dashboard.png" width="100%" alt="Warehouse Management System"/>
+
+📦 WMS Enterprise — Warehouse Management System <br/> An admin dashboard for tracking inventory, incoming/outgoing shipments, low-stock alerts, and damaged goods, built with a fully localized Arabic RTL interface.
+
+</td> </tr> </table> <br/>
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdallah670&show_icons=true&count_private=true&theme=radical&hide_border=true" height="165" alt="stats graph"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph"/> <img src="https://streak-stats.demolab.com?user=abdallah670&theme=radical&hide_border=true" height="165" alt="streak graph"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" width="90%" alt="activity graph"/> </div> <br/> <div align="center">
+Let's Connect
+
+<a href="https://www.linkedin.com/in/abdullah-mohammed-334475294" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin"/></a> <a href="https://t.me/Abdullah0284" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="40" alt="telegram"/></a> <a href="https://www.youtube.com/@Fikri-18" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="40" alt="youtube"/></a> <a href="mailto:meno.mo.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="gmail"/></a>
+
+<sub>Thanks for stopping by — check out my pinned repos below ⬇️</sub>
+
+</div>
