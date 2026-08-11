@@ -1,55 +1,28 @@
-<br clear="both">
-
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=490&lines=I'm+Abdullah+Mohamed;Software+Engineer+;Backend+.NET+developer" alt="Typing SVG" /></a>
-</h1>
-
-
-
-<br clear="both">
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abdallah670&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=abdallah670&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="200" alt="languages graph"/> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=abdallah670&no-frame=true&no-bg=true&theme=radical" height="200" alt="trophy graph"  />
-</div> -->
-<br clear="both">
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF2a3AyODE4bjV4ajJrMm8xdm52OXc5enZ0bzRjeTkybXoya3JqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  /> 
-
-
-
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abdullah+Mohammed+(Meno);Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+Azure;Building+clean%2C+scalable+web+apps" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=abdallah670&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" /> </div> <br/>
+👋 About Me
+🎓 Computer Science student at the Faculty of Computers and Information (FCI), Cairo
+💻 Full-Stack .NET Developer — building backend systems with C# / ASP.NET Core and frontends with Angular
+🏗️ I care about Clean Architecture, maintainable code, and solid database design
+🚀 I also take on freelance web development projects
+📫 Reach me at meno.mo.dev@gmail.com
+<br/>
+🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-</div>
 
-<div align="left">
-  <a href="https://www.youtube.com/@Fikri-18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="60" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abdullah-mohammed-334475294" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="60" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Abdullah0284" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="71" height="60" alt="telegram logo"  />
-  </a>
-</div>
+Languages & Core <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET Core" title=".NET Core"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++"/>
 
+Backend & Frameworks <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt=".NET" title=".NET"/> <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="ASP.NET Core MVC"/> <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="EF Core"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="SignalR"/>
+
+Frontend <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" title="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" height="28" alt="NgRx"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" height="28" alt="RxJS"/>
+
+Database & Cloud <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" alt="SQL Server" title="SQL Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" title="Azure"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+
+Architecture <br/> <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" height="28" alt="Clean Architecture"/>
+
+</div> <br/>
+🚀 Featured Projects
+<table> <tr> <td width="33%"> <h3>🏋️ MenoPro</h3> <p>Gym Management System built with ASP.NET Core &amp; Angular, using Clean Architecture and SQL Server.</p> </td> <td width="33%"> <h3>🛠️ Labor Marketplace System</h3> <p>A marketplace platform connecting clients with skilled laborers, with real-time features powered by SignalR.</p> </td> <td width="33%"> <h3>👗 Outfit Planner</h3> <p>A web app for planning and organizing outfits, built with a clean, responsive Angular frontend.</p> </td> </tr> </table> <br/>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdallah670&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=abdallah670&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="streak graph" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" height="180" alt="activity graph" /> </div> <br/>
+🤝 Connect With Me
+<div align="left"> <a href="https://www.linkedin.com/in/abdullah-mohammed-334475294" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="45" alt="linkedin logo"/> </a> <a href="https://t.me/Abdullah0284" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="45" alt="telegram logo"/> </a> <a href="https://www.youtube.com/@Fikri-18" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="45" alt="youtube logo"/> </a> <a href="mailto:meno.mo.dev@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="45" alt="gmail logo"/> </a> </div> <br/> <div align="center"> <sub>Thanks for stopping by — feel free to check out my pinned repos below ⬇️</sub> </div>
