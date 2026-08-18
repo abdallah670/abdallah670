@@ -34,7 +34,7 @@ Featured Projects
 
 </td> </tr> </table> <br/>
 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah670&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph"/>
+
 <img src="https://streak-stats.demolab.com?user=abdallah670&theme=radical&hide_border=true" height="165" alt="streak graph"/> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallah670&theme=redical&hide_border=true&area=true" width="90%" alt="activity graph"/> </div> <br/> <div align="center">
 Let's Connect
